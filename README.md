@@ -1,1 +1,2 @@
-# Programming Fundamentals using R ## Assignments and their solutions
+# Programming Fundamentals using R
+## Assignments and their solutions
